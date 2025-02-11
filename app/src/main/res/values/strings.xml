@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">interview-transparent-accounts-app</string>
+
+    <string name="account_detail">Account Detail</string>
+    <string name="back">Back</string>
+    <string name="balance">Balance: %.2f %s</string>
+    <string name="account_number">Account Number</string>
+    <string name="bank_code">Bank Code</string>
+    <string name="transparency_from">Transparency From</string>
+    <string name="transparency_to">Transparency To</string>
+    <string name="publication_to">Publication To</string>
+    <string name="actualization_date">Actualization Date</string>
+    <string name="description">Description</string>
+    <string name="note">Note</string>
+    <string name="iban">IBAN</string>
+    <string name="documents">Documents</string>
+    <string name="account">Account: %s</string>
+</resources>
